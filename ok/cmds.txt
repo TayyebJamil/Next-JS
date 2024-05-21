@@ -33,4 +33,8 @@ Use Redux State and Actions in React Components
 
 
 git commands:
- git status
+ git init
+git add -A
+git commit -m 'Added my project'
+git remote add origin git@github.com:sammy/my-new-project.git
+git push -u -f origin main
